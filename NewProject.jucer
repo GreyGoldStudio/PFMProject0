@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<JUCERPROJECT id="womyL9" name="NewProject" projectType="audioplug" jucerVersion="5.4.7">
-  <MAINGROUP id="PoGNBR" name="NewProject">
+<JUCERPROJECT id="womyL9" name="PFMProject0" projectType="audioplug" jucerVersion="5.4.7">
+  <MAINGROUP id="PoGNBR" name="PFMProject0">
     <GROUP id="{199F1A82-1278-C639-65EC-01FB09F051EA}" name="Source">
       <FILE id="uDA5l6" name="PluginProcessor.cpp" compile="1" resource="0"
             file="Source/PluginProcessor.cpp"/>
